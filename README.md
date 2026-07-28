@@ -43,21 +43,7 @@ Emergency-Hospital-Room-Analytics
 │
 ├── Jupyter Notebook
 │   └── Emergency_Hospital_Analytics.ipynb
-│
-├── Images
-│   ├── Patient_Volume.png
-│   ├── Waiting_Time.png
-│   ├── Admission_Rate.png
-│   ├── Department_Analysis.png
-│   ├── Age_Distribution.png
-│   ├── Satisfaction.png
-│   ├── Doctor_Workload.png
-│   ├── Shift_Analysis.png
-│   └── Correlation_Heatmap.png
-│
-├── README.md
-├── requirements.txt
-└── LICENSE
+|____README.md
 ```
 
 ---
